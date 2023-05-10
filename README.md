@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/121868653/236122352-65104124-8ecb-4daa-b90e-509f38bf2934.jpg" width="600px">
+<img src="" width="600px">
 
-# **Color Picker App**
+# **Reminder App**
 Made by Arshit Vadsak
 
 ---
@@ -11,17 +11,15 @@ Made by Arshit Vadsak
 
 ## 🗒 About
 
-colors genetator
+It's a quick, simple and easy to use reminder app.
 
 ## ⚙️ Features
 
 - Main features are as follows:
 
-    - Color Picker
-    - color collection
+    - 
+    - 
     - Light and dark theme
-    - Rendom color
-    - color palletes save Firebase
     
 ## 📲 Screenshots
 <img align="left" src="https://github.com/Arshitvadsak/Reminder-App/assets/121868653/12d10ac3-4f6f-4175-af44-b1a6428fbc71" width="220px">
