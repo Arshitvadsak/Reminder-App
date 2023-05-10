@@ -34,5 +34,4 @@ colors genetator
 <img align="left" src="https://github.com/Arshitvadsak/Reminder-App/assets/121868653/2d5e421b-932f-4dc4-8556-a13f36404574" width="220px">
 <img align="left" src="https://github.com/Arshitvadsak/Reminder-App/assets/121868653/3be68104-3b64-45e7-a2f8-2acfef6f781f" width="220px">
 <img align="left" src="https://github.com/Arshitvadsak/Reminder-App/assets/121868653/8a1343db-adbc-4633-9693-83789d47ba43" width="220px">
-<img align="left" src="" width="220px">
 
